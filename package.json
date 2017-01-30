@@ -1,0 +1,11 @@
+{
+  "name": "furrymud",
+  "version": "1.0.0",
+  "author": "curlycoon",
+  "main": "main.js",
+  "dependencies": {
+    "js-sha3": "^0.5.7",
+    "socket.io": "^1.7.2",
+    "sqlite3": "^3.1.8"
+  }
+}
